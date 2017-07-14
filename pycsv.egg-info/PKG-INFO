@@ -1,5 +1,5 @@
 Metadata-Version: 1.0
-Name: pycsvmadeeasy
+Name: pycsv
 Version: 1.7
 Summary: Reading CSV file and insert into database
 Home-page: https://github.com/sajeeshe/python-csv-easy
