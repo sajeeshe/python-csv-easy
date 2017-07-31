@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(name='pycsv',
-      version='1.7',
-      description='Reading CSV file and insert into database',
+      version='1.8',
+      description='Read CSV and Parse it',
       url='https://github.com/sajeeshe/python-csv-easy',
       author='Sajeesh E Namboothiri',
       author_email='sajeeshe@gmail.com',
